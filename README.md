@@ -1,6 +1,5 @@
 # SheridanCourseApp
 
-Figma file: [Sheridan Course App Final.zip](https://github.com/JoshPhil/SheridanCourseApp/files/8149460/Sheridan.Course.App.Final.zip) <br />
 Public URL of figma design: https://www.figma.com/file/XHVMD2LLcFOzCPILOzdBim/Sheridan-Course-App-Final?node-id=0%3A1 <br />
 YouTube link: <br />
 
