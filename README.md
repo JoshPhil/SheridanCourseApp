@@ -1,7 +1,7 @@
 # SheridanCourseApp
 
 Public URL of figma design: https://www.figma.com/file/XHVMD2LLcFOzCPILOzdBim/Sheridan-Course-App-Final?node-id=0%3A1 <br />
-YouTube link:  <br />
+YouTube link: https://www.youtube.com/watch?v=VMGDsQjLkZ8 <br />
 
 This is my final design for the Sheridan Course App. The goal of this app is to provide an intuitive mobile application for courses at Sheridan College. In addition to college students who are usually between 18 to 30 years old as well as learners above 45 years old. This design allows students to view their course list, and each course have their own individual homepage, content, assignment, grades, and group chat page. In my first deisgn I had each page listed horizontally below the image and title of the course, this however, made the screen look congested. And so I decided to arrange each page in a menu to make the screen look more clean and simple. When you hover over a button, the text gets elevated to make it easier to use
 
