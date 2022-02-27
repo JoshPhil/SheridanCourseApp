@@ -1,2 +1,5 @@
 # SheridanCourseApp
 This is my final design for the Sheridan Course App. The goal of this app is to provide an intuitive mobile application for courses at Sheridan College. In addition to college students who are usually between 18 to 30 years old as well as learners above 45 years old. This design allows students to view their course list, and each course have their own individual homepage, content, assignment, grades, and group chat page. In my first deisgn I had each page listed horizontally below the image and title of the course, this however, made the screen look congested. And so I decided to arrange each page in a menu to make the screen look more clean and simple. When you hover over a button, the text gets elevated to make it easier to use
+
+<img width="200" alt="Course list page" src="https://user images.githubusercontent.com/61252535/155899744-07c005d6-088a-4606-a5ff-f741bf7f97cd.png"> 
+<img width="200" alt="cpourse homepage" src="https://user-images.githubusercontent.com/61252535/155899825-2f51be2b-9d3c-4d01-a7ab-350b7776b023.png">
